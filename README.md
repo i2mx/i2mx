@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I don't do anything but it's funny
+
+```py
+  while True:
+    print("hayden is gay")
+```
+
 <!--
 **i2mx/i2mx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
