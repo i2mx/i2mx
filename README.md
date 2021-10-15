@@ -10,7 +10,6 @@ i know javascript, python, c++ (kinda), java and c# (the last two i'm not very g
 ```
 
 - 🔭 I’m currently working on NOTHING
-- 🌱 I’m currently learning C# and Java and probably OOP also Machine learning is fun
 - 💬 Ask me about anything it's not like i'll answer
 - 📫 How to reach me: DONT
 - ⚡ Fun fact: hayden is gay
