@@ -15,5 +15,5 @@ Solve problems and makes tool, that's pretty much all I do. I try to make some i
 
 ---
 
-![https://i2mx.github.io/tt/](tt.svg)
+[![](tt.svg)](https://i2mx.github.io/tt/)
 
