@@ -1,17 +1,15 @@
-![](image.png)
+<h3 align="center"><samp>Hello! I am <b>Jay Zhao</b></samp></h3>
+<p align="center"><br>
+  <samp>
+     「 Certified Number Theory Hater 」<br>
+  </samp>
+</p>
 
----
 
-<div align="center"> 
-  <h3>
-    🚀 Typescript enthusist · 🐍 Python enjoyer · 💻 Casual Competitive Programming.
-  </h3>
-</div>
+<br>
 
----
-holy heck
-
----
-
-[![](tt.svg)](https://i2mx.github.io/tt/)
-
+<p align="center">
+    ════ ⋆★⋆ ════<br>
+    <a href="https://i2mx.github.io/me/">links or something</a>
+  </p>
+</samp>
