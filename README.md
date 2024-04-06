@@ -10,6 +10,6 @@
 
 <p align="center">
     ════ ⋆★⋆ ════<br>
-    <a href="https://i2mx.github.io/me/">links or something</a>
+    <a href="exhqx.me">links or something</a>
   </p>
 </samp>
