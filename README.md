@@ -1,1 +1,1 @@
-<center> perfect tempereted instrument </center>
+perfect tempereted instrument
